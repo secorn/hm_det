@@ -1,0 +1,41 @@
+.env
+raw_data/
+<<<<<<< HEAD
+raw_data_2/
+processed_stage_2_train/
+=======
+base_cat_dog/
+*.pkl
+.streamlit/secrets.toml
+
+
+>>>>>>> 7f632b49952b3583ac94e14058f43c84bc273746
+# OS generated files #
+######################
+.DS_Store
+__MACOSX
+# Jupiter Notebook #
+.pytest_cache
+__pycache__
+*checkpoint.ipynb
+*.ipynb_checkpoints
+
+### from preprocessing ##
+model*/
+
+# inteliJ #
+*.pkl
+.idea
+*.gz
+*PKG-INFO
+*.egg-info
+*.csv
+*.zip
+mlruns
+*.sqlite
+# IDE #
+*.vscode
+
+
+# Challengify - test challengification files
+*_challengify*
